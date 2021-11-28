@@ -27,8 +27,6 @@ Eglencili bilim is a website that provides "science at home" for children. They 
 ## How we met their requirements 
 In our project, we chose to have a character that the children can relate to. This character welcomes the student to the level they are in - (the planet in our case) and guides them throughout the level. Once the children complete each level, they have the option to play a game - as a reward. This reward allows the children to feel a sense of accomplishment for what they have achieved and look forward to the coming levels (planets) and the rewards that they can get it in each level. 
 
-## Screenshots
-![Planets page](https://drive.google.com/file/d/1Uaa9YiDUxBdy6bcSlw6Hf_NpQ6F4mrDc/view?usp=sharing)
 
 ## Introductry Video
 You can watch this short video to learn more about our project [Here](https://www.loom.com/share/56263684f1f14c08add638d8ad64e52c)
@@ -45,6 +43,9 @@ You can find a demo [Here](https://samaromm.github.io/eglenceli-bilim/)
 - HTML
 - Bootstrap
 - Photoshop
+- illustrator
+- git 
+- github
 
 ## Getting Started 
 - git clone git@github.com:InnovationHackathon-istanbul-2021/eglencili-bilim-challenge.git
