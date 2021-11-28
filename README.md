@@ -36,6 +36,7 @@ You can watch this short video to learn more about our project [Here](https://ww
 You can find a demo [Here](https://samaromm.github.io/eglenceli-bilim/)
 
 
+
 ## What We Used
 - React framework
 - JavaScript
@@ -46,6 +47,8 @@ You can find a demo [Here](https://samaromm.github.io/eglenceli-bilim/)
 - illustrator
 - git 
 - github
+- addind
+- 
 
 ## Getting Started 
 - git clone git@github.com:InnovationHackathon-istanbul-2021/eglencili-bilim-challenge.git
