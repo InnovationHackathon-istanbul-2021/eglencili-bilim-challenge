@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+import { BrowserRouter as HashRouter, Route, Routes } from 'react-router-dom'
 import Home from './containers/HomePage'
 import Chapters from './containers/ChaptersMain'
 import Space from './containers/SpaceChapter'
@@ -15,7 +15,7 @@ import 'animate.css'
 
 const App = () => {
   return (
-    <Router basename='/'>
+    <HashRouter basename='/'>
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/chapters' element={<Chapters />} />
@@ -25,7 +25,7 @@ const App = () => {
         <Route path='/end-game' element={<EndGame />} />
       <Route path='/Memorygame' element={<Memorygame />} />
       </Routes>
-    </Router>
+    </HashRouter>
   )
 }
 
